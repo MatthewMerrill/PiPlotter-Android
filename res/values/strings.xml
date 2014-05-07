@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PiPlotterAndroid</string>
+    <string name="title_input_detail">Input Detail</string>
+
+</resources>
